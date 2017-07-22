@@ -3,7 +3,15 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+body {
+    background-color: #fdfdfd;
+}
 
+/* allows navbar to be at top of page */
+html, body {
+    margin:0px;
+    padding:0px;
+}
 
 
 
